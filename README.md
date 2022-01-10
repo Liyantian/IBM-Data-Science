@@ -1,2 +1,2 @@
 # IBM-Data-Science
-Labs of IBM Sata Science
+Labs of IBM Data Science
